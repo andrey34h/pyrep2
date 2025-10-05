@@ -30,3 +30,9 @@ def test() -> None:
 
 	assert str, type(random_ball());
 	assert str, type(random_color());
+<<<<<<< HEAD
+=======
+
+
+test();
+>>>>>>> 87e981427e4a6cc73ed09e286384072a4e1758c6
